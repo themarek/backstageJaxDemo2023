@@ -1,0 +1,11 @@
+site_name: "test-demo"
+site_description: "demo"
+
+nav:
+  - Introduction: index.md
+  - API: api.md
+
+docs_dir: docs
+
+plugins:
+  - techdocs-core
